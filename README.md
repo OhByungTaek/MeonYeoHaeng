@@ -1,21 +1,21 @@
 # 먼 여 행 (먼저가서 미안해 / 여기서도 난 / 행복하게 잘 지내)
-XR 환경에서 만든 새로운 반려동물 추모 시스템
+반려동물의 추모를 위한 XR 서비스
 
 <br>
 <br>
 
-# 수상 경력
+### 수상 경력
 (2023) XR Device 아이디어톤
 (2024-1) HSU C&C Festival
 
 ## 1. 사용 기술
 <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/> <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <br>
-*MRTK-Unity
-*STT(MRTK)
-*Hand Tracking(MRTK)
-*Editor Version: 2022.3.6f1 LTS
-*Target Platform: Google Hololens
+* MRTK
+* STT(MRTK)
+* Hand Tracking(MRTK)
+* Editor Version: 2022.3.6f1 LTS
+* Target Platform: Google Hololens
 <br>
 
 ## 2. 작품 소개
