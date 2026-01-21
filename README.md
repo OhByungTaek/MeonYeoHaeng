@@ -6,7 +6,8 @@
 
 ### 수상 경력
 (2023) XR Device 아이디어톤
-(2024-1) HSU C&C Festival
+<br>
+(2024) HSU C&C Festival
 
 ## 1. 사용 기술
 <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/> <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
@@ -41,6 +42,7 @@
 [[당시 발표 자료 - 메타버스 경진대회](https://www.canva.com/design/DAG_EGoWyCU/2QuuJSxEpQodKDFHwes71A/view?utm_content=DAG_EGoWyCU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h610d661895)]
 
 <br>
+
 [[당시 발표 자료 - C&C 페스티벌](https://www.canva.com/design/DAG_ENPFvP4/icrLdlsmiuCWRKvN2ZNecw/view?utm_content=DAG_ENPFvP4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h82d30a65df)]
 
 <br>
