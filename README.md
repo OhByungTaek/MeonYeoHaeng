@@ -16,7 +16,7 @@
 * STT(MRTK)
 * Hand Tracking(MRTK)
 * Editor Version: 2022.3.6f1 LTS
-* Target Platform: Google Hololens
+* Target Platform: Microsoft Hololens2
 <br>
 
 ## 2. 작품 소개
